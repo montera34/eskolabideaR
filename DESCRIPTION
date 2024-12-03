@@ -1,13 +1,14 @@
 Package: eskolabideaR
 Title: Create reports and slides for Eskola Bidea project
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R: c(
     person("Carlos", "Cámara-Menoyo", , "ccamara@pm.me", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-9378-0549")),
-    person("Pablo", "Rey", , "pablo@basurama.org", role = c("aut", "cre"),
+    person("Pablo", "Rey", , "pablo@basurama.org", role = c("aut"),
            comment = c(ORCID = "0000-0002-5859-0467")),
-    person("Montera34", role = c("org", "aut")),
+    person("Montera34", role = c("org")),
     person("Solasgune", role = c("cli", "fnd"))
+    )
 Description: This package generates reports and slides for schools based on the survey made by Solasgune
 License: MIT + file LICENSE
 Encoding: UTF-8
