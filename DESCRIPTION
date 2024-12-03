@@ -9,8 +9,7 @@ Authors@R:
     person("Montera34", role = c("org", "aut")),
     person("Solasgune", role = c("cli", "fnd"))
 Description: This package generates reports and slides for schools based on the survey made by Solasgune
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
